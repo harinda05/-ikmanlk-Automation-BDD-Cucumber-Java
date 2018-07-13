@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("F:/Studies/Third Year/Softwre QA/cucumberTest/src/test/java/features/execution.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/test/java/features/execution.feature");
 formatter.feature({
   "line": 1,
   "name": "To get property details from ikman",
@@ -54,42 +54,42 @@ formatter.match({
   "location": "MyStepdefs.iOpenChromeAndGoToIkmanlk()"
 });
 formatter.result({
-  "duration": 10521290667,
+  "duration": 9321109333,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnPropertyButton()"
 });
 formatter.result({
-  "duration": 2276427062,
+  "duration": 3248169086,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnHouses()"
 });
 formatter.result({
-  "duration": 1607625086,
+  "duration": 1617103408,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnColombo()"
 });
 formatter.result({
-  "duration": 878176395,
+  "duration": 31925228247,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iSetMinMaxPriCesAndTheBedCount()"
 });
 formatter.result({
-  "duration": 33695445729,
+  "duration": 4293160296,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iShouldBeAleToGetVerifiedAdvertisementDetails()"
 });
 formatter.result({
-  "duration": 7992633284,
+  "duration": 9047003259,
   "status": "passed"
 });
 });
